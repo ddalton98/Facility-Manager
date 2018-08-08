@@ -1,0 +1,2 @@
+0,Admin,bobzilla,1
+1,Daniel,password,0
